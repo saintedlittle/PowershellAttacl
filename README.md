@@ -4,3 +4,5 @@
 
 Параметр newUrl определяет откуда качать .exe, 
 параметр newFolderName определяет куда качать.
+
+### webserver/README.md
